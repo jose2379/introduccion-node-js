@@ -1,0 +1,25 @@
+{
+  "name": "intro-node-js",
+  "version": "1.0.0",
+  "description": "Modulo nodeJS de introducción",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose2379/introduccion-node-js.git"
+  },
+  "keywords": [
+    "introduccion",
+    "nodejs", 
+    "node",
+    "js"
+  ],
+  "author": "Jose María Miñambres <jose2379@gmail.com> (https://github.com/jose2379)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jose2379/introduccion-node-js/issues"
+  },
+  "homepage": "https://github.com/jose2379/introduccion-node-js#readme"
+}
